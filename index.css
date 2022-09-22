@@ -1,0 +1,140 @@
+
+
+
+.Features .feat{
+    width: 90%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-left: 90px;;
+
+
+}
+
+p.ab {
+    position: relative;
+    left:35px;
+    
+}
+p.ba{
+    position: relative;
+    left: 72px;
+   
+    
+}
+p.bb{
+    position: relative;
+    right: 35px;px;
+    
+}
+p.ba a{
+    text-decoration: none;
+    color: rgb(76, 55, 0);
+    font-size: 20px;
+}
+p.ab a{
+    text-decoration: none;
+    color: rgb(76, 55, 0);
+    font-size: 20px;
+}
+p.bb a{
+    text-decoration: none;
+    color: rgb(76, 55, 0);
+    font-size: 20px;
+}
+p.a a{
+    text-decoration: none;
+    
+    
+}
+.button{
+    align-items: center;
+
+}
+.Features .fea{
+    width: 90%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-left: 85px;;
+}
+p.dd{
+    position: relative;
+    left: 32px;
+    color: darkgoldenrod;
+    
+}
+p.cc{
+    position: relative;
+    left: 85px;
+    color: darkgoldenrod;
+}
+p.ee{
+    position:relative;
+    right: 60px;
+    color: darkgoldenrod;
+
+}
+.Contact .Form{
+    text-align: center;
+   
+}
+.Contact .Send{
+    margin-top: 30px;
+    text-align: center;
+}
+.Logo2{
+    margin-top: 60px;
+    align-items: center;
+ }
+ .column {
+     float: left;
+     width: 33.33%;
+     padding: 5px;
+   }
+   
+   .row::after {
+     content: "";
+     clear: both;
+     display: table;
+   }
+   .Logo2 .center {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: auto;
+     width:5%;
+   }
+   li.nav item{
+    text-align: center;
+   }
+.Features .container-fluid{
+    text-align: center;
+   margin:25px 0;
+}
+p.cc a{
+    text-decoration: none;
+    color: rgb(76, 55, 0);
+    font-size: 20px;
+}
+p.dd a{
+    text-decoration: none;
+    color: rgb(76, 55, 0);
+    font-size: 20px;
+
+}
+p.ee a{
+    text-decoration: none;
+    color: rgb(76, 55, 0);
+    font-size: 20px;
+
+}
+.Contact .c {
+    text-align: center;
+    margin: 25px 0;
+    font-size: 20px;
+}
+.Logo2{
+    font-size: 20px;
+}
+
