@@ -24,23 +24,20 @@ p.ba{
 }
 p.bb{
     position: relative;
-    right: 35px;px;
+    right: 20px;
     
 }
 p.ba a{
     text-decoration: none;
-    color: rgb(76, 55, 0);
-    font-size: 20px;
+    color: rgb(236, 173, 16);    font-size: 20px;
 }
 p.ab a{
     text-decoration: none;
-    color: rgb(76, 55, 0);
-    font-size: 20px;
+    color: rgb(236, 173, 16);    font-size: 20px;
 }
 p.bb a{
     text-decoration: none;
-    color: rgb(76, 55, 0);
-    font-size: 20px;
+    color: rgb(236, 173, 16);    font-size: 20px;
 }
 p.a a{
     text-decoration: none;
@@ -61,18 +58,16 @@ p.a a{
 p.dd{
     position: relative;
     left: 32px;
-    color: darkgoldenrod;
-    
+    color: rgb(236, 173, 16);    
 }
 p.cc{
     position: relative;
     left: 85px;
-    color: darkgoldenrod;
-}
+    color: rgb(236, 173, 16);}
 p.ee{
     position:relative;
-    right: 60px;
-    color: darkgoldenrod;
+    right: 40px;
+    color: rgb(236, 173, 16);
 
 }
 .Contact .Form{
@@ -114,19 +109,16 @@ p.ee{
 }
 p.cc a{
     text-decoration: none;
-    color: rgb(76, 55, 0);
-    font-size: 20px;
+    color: rgb(236, 173, 16);    font-size: 20px;
 }
 p.dd a{
     text-decoration: none;
-    color: rgb(76, 55, 0);
-    font-size: 20px;
+    color: rgb(236, 173, 16);    font-size: 20px;
 
 }
 p.ee a{
     text-decoration: none;
-    color: rgb(76, 55, 0);
-    font-size: 20px;
+    color: rgb(236, 173, 16);    font-size: 20px;
 
 }
 .Contact .c {
@@ -136,5 +128,12 @@ p.ee a{
 }
 .Logo2{
     font-size: 20px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+    }
+.container .img{
+    margin-left: 20px;
 }
 
